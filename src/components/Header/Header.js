@@ -40,6 +40,7 @@ const Nav = styled.nav`
   justify-content: space-between;
   gap: 48px;
   align-self: center;
+  margin: auto;
 `;
 
 const NavLink = styled.a`
